@@ -16,3 +16,6 @@ it_threat_detection/__MACOSX
 
 # question answering data
 question_answering/tmp
+
+# ss
+search/question-answering/tkcmonthlystatus.csv
